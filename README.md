@@ -6,7 +6,7 @@ A = Start/Power (+ 5s multi-tap to choose # of blocks) · B = Pause/Resume · No
 ## Demo
 - **Video (~100s):** https://youtu.be/DwXlfS96k24?si=4ErYAXZaSrnEDjqe
 - **MakeCode project:** https://makecode.microbit.org/S38022-16616-31324-20743
-- **Download firmware:** [`firmware/silent-study-tile.hex`](firmware/silent-study-tile.hex)
+- **Download firmware:** [`firmware/microbit-Silent-Study-Tile.hex`](firmware/microbit-Silent-Study-Tile.hex)
 
 ## How it works
 - Each block: **intro → 1s gap → countdown**. LED grid drains one LED per tick (demo: 0.5 s; real: 1 min).
