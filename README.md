@@ -12,6 +12,7 @@ A = Start/Power (+ 5s multi-tap to choose # of blocks) · B = Pause/Resume · No
 <p align="center">
   <img src="docs/Poster.png" alt="The Silent Study Tile poster" width="900">
 </p>
+
 [View the full poster (PDF)](docs/The%20Silent%20Study%20Tile%20Poster.pdf)
 
 ## Prototype Views
