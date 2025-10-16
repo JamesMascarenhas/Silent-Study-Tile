@@ -8,6 +8,16 @@ A = Start/Power (+ 5s multi-tap to choose # of blocks) · B = Pause/Resume · No
 - **MakeCode project:** https://makecode.microbit.org/S38022-16616-31324-20743
 - **Download firmware:** [`firmware/microbit-Silent-Study-Tile.hex`](firmware/microbit-Silent-Study-Tile.hex)
 
+## Poster
+[View the full poster (PDF)](docs/The%20Silent%20Study%20Tile.pdf)
+
+## Prototype Views
+<p align="center">
+  <img src="docs/renders/front.png" width="45%" alt="Front view">
+  <img src="docs/renders/side.png" width="45%" alt="Side view">
+  <img src="docs/renders/back.png"  width="45%" alt="Back view">
+</p>
+
 ## How it works
 - Each block: **intro → 1s gap → countdown**. LED grid drains one LED per tick (demo: 0.5 s; real: 1 min).
 - **Noise-Lock:** if `soundLevel ≥ threshold` (default **100**), show **X**, **beep 1 Hz**, and **pause time**.
