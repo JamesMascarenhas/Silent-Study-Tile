@@ -13,9 +13,9 @@ A = Start/Power (+ 5s multi-tap to choose # of blocks) · B = Pause/Resume · No
 
 ## Prototype Views
 <p align="center">
-  <img src="docs/front.png" width="45%" alt="Front view">
-  <img src="docs/side.png" width="45%" alt="Side view">
-  <img src="docs/back.png"  width="45%" alt="Back view">
+  <img src="docs/Front.png" width="45%" alt="Front view">
+  <img src="docs/Side.png" width="45%" alt="Side view">
+  <img src="docs/Back.png"  width="45%" alt="Back view">
 </p>
 
 ## How it works
