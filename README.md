@@ -4,7 +4,7 @@
 A = Start/Power (+ 5s multi-tap to choose # of blocks) · B = Pause/Resume · Noise ≥ threshold shows **X** and beeps 1 Hz while time is paused.
 
 ## Demo
-- **Video (90s):** https://youtu.be/DwXlfS96k24?si=4ErYAXZaSrnEDjqe![Uploading image.png…]()
+- **Video (90s):** https://youtu.be/DwXlfS96k24?si=4ErYAXZaSrnEDjqe
 
 - **MakeCode project:** <Your MakeCode share URL>
 - **Download firmware:** [`firmware/silent-study-tile.hex`](firmware/silent-study-tile.hex)
